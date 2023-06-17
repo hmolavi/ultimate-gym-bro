@@ -30,6 +30,7 @@ Go to my <a href="https://replit.com/@hmolavi/ultimate-gym-bro">Repl </a> reposi
 ``` bash
 deploy.py
 ```
+Click on the steamship link and create your account. Create an instance of the module, you will be redirected to a new page where you can either chat there or connect to a Telegram bot which require seperate instructions.
 ## Running on Localhost
 Initially you need to setup a Python virtual environment. You can do so by running the following:
 ```bash
@@ -51,7 +52,7 @@ python3.8 main.py
   - [x] Create instance
   - [x] Link Telegram Bot
 - [ ] Launch on Repl
-- [ ] Add pictures
+- [ ] Adding picture feature
   - [x] Set foundation
   - [ ] Specify picture prefrences
   - [ ] Connect to DALL-E
