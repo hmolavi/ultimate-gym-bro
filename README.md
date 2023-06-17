@@ -9,7 +9,7 @@
   <p align="center">
       GPT agent with the personality of a gym trainer
     <br />
-    <a href="https://replit.com/@hmolavi">View Repl Demo</a>
+    <a href="https://hmolavi.com/ultimate-gym-bro-chat/">View Website Demo</a>
   </p>
 </div>
 <div align="center">
