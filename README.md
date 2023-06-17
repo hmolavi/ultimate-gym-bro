@@ -26,7 +26,7 @@
 You can run the module on your device or on cloud through Repl. Try changing the personality of the agent by editing the string at the bottom of src/api.py file!
 
 ## Running in Replit
-Go to my <a href="https://replit.com/@hmolavi/ultimate-gym-bro">Repl </a> repository and deploy project by pasting deploy.py into shell terminal
+Go to my <a href="https://replit.com/@hmolavi/Ultimate-Gym-Bro">Repl </a> repository and deploy project by pasting deploy.py into shell terminal
 ``` bash
 deploy.py
 ```
