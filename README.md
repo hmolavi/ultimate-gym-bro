@@ -15,8 +15,21 @@
 <div align="center">
 </div>
 
-## Running in Replit
+----
+## Available on Telegram
 
+<div align="center">
+  <img src="assets/telegram_chat.png">
+</div>
+
+# Getting Started
+You can run the module on your device or through Repl
+
+## Running in Replit
+Go to my Repl repository and deploy by running this into the shell terminal
+``` bash
+deploy.py
+```
 ## Running on Localhost
 
 Initially you need to setup a Python virtual environment. You can do so by running the following:
@@ -51,3 +64,11 @@ python3.8 main.py
 ## Contributing
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
