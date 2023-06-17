@@ -23,31 +23,26 @@
 </div>
 
 # Getting Started
-You can run the module on your device or through Repl
+You can run the module on your device or on cloud through Repl
 
 ## Running in Replit
-Go to my Repl repository and deploy by running this into the shell terminal
+Go to my <a href="https://replit.com/@hmolavi/ultimate-gym-bro">Repl </a> repository and deploy project by pasting deploy.py into shell terminal
 ``` bash
 deploy.py
 ```
 ## Running on Localhost
-
 Initially you need to setup a Python virtual environment. You can do so by running the following:
-
 ```bash
 python3.8 -m venv .venv
 source .venv/bin/activate
 python3.8 -m pip install -r requirements.txt
 ```
-
 Then, run your agent:
-
 ```bash
 python3.8 main.py
 ```
 
 ## Roadmap
-
 - [x] Build api foundation
 - [x] Create new Telegram bot and access token
 - [x] Steamship
@@ -72,3 +67,5 @@ Don't forget to give the project a star! Thanks again!
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
+----
